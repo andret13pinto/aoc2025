@@ -8,7 +8,7 @@ from . import solution
 @pytest.mark.parametrize(
     ("output"),
     [
-        (24000),
+        (3),
     ],
 )
 def test_input(output):
